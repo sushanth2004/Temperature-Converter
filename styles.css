@@ -1,0 +1,39 @@
+.container{
+    margin-top: 150px;
+    /* border: 2px solid; */
+    display:inline-block;
+    padding: 50px;
+    background-color: #ADC4CE;
+}
+h1{
+    font-family: 'Caprasimo', cursive;
+    font-family: 'Lugrasimo', cursive;
+    font-family: 'REM', sans-serif;
+    font-size: 80px;
+    display:inline;
+}
+body{
+    text-align: center;
+    background-color: #96B6C5;
+}
+
+.text{
+    font-size: 50px;
+    
+}
+.input{
+    height: 30px;
+    font-size: 20px;
+    text-align: center;
+   
+}
+.type{
+    display:inline-block;
+    margin-right: 20px;
+}
+
+.reset{
+    height: 40px;
+    width:90px;
+    font-size: 25px;
+}
